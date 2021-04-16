@@ -1,2 +1,2 @@
-# NEWTONS-CRADLE-PROJECT
-NEWTONS CRADLE PROJECT
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
